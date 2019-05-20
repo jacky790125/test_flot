@@ -17,7 +17,7 @@ export default {
 
       // flot test
       var d2 = [[0, 3], [4, 8], [8, 5], [9, 13]];
-      $.plot("#placeholder", d2);
+      $.plot("#chart", d2);
     },
 }
 </script>
