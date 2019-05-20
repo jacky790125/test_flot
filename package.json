@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "flot": "^3.0.2",
+    "jquery": "^3.4.1",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3"
   },
